@@ -3,12 +3,18 @@ This is a simple Todo application built with Python Django. The app allows users
 
 # Features
 Add Todos: Create new tasks to manage your daily activities.
+
 View Todos: Display a list of all existing tasks.
+
 Update Todos: Modify the details of an existing task.
+
 Delete Todos: Remove tasks that are no longer needed.
+
 Persistent Storage: All tasks are stored in a backend database, ensuring that data is not lost between sessions.
 
 # Technologies Used
 Backend: Django (Python)
-Database: SQLite (default) or any other supported database
+
+Database: SQLite
+
 Frontend: Django Templates, HTML, CSS
